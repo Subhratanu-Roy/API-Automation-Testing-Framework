@@ -72,3 +72,9 @@
 21:49:36.535 [main] INFO  API.test.UserTests - ******** User info displayed ********
 21:49:36.546 [main] INFO  API.test.UserTests - ******** updating user ********
 21:49:37.824 [main] INFO  API.test.UserTests - ******** deleting user ********
+21:56:31.132 [main] INFO  API.test.UserTests - ******** Creating User **********
+21:56:36.181 [main] INFO  API.test.UserTests - ******** User created ********
+21:56:36.205 [main] INFO  API.test.UserTests - ******** Getting  user ********
+21:56:37.751 [main] INFO  API.test.UserTests - ******** User info displayed ********
+21:56:37.758 [main] INFO  API.test.UserTests - ******** updating user ********
+21:56:46.179 [main] INFO  API.test.UserTests - ******** deleting user ********
