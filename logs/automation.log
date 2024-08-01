@@ -101,3 +101,15 @@
 21:59:54.793 [main] INFO  API.test.UserTests - ******** User info displayed ********
 21:59:54.797 [main] INFO  API.test.UserTests - ******** updating user ********
 21:59:56.381 [main] INFO  API.test.UserTests - ******** deleting user ********
+22:48:44.264 [main] INFO  API.test.UserTests - ******** Creating User **********
+22:48:52.465 [main] INFO  API.test.UserTests - ******** User created ********
+22:48:52.508 [main] INFO  API.test.UserTests - ******** Getting  user ********
+22:48:54.074 [main] INFO  API.test.UserTests - ******** User info displayed ********
+22:48:54.078 [main] INFO  API.test.UserTests - ******** updating user ********
+22:48:55.543 [main] INFO  API.test.UserTests - ******** deleting user ********
+23:28:56.414 [main] INFO  API.test.UserTests - ******** Creating User **********
+23:29:02.009 [main] INFO  API.test.UserTests - ******** User created ********
+23:29:02.027 [main] INFO  API.test.UserTests - ******** Getting  user ********
+23:29:03.550 [main] INFO  API.test.UserTests - ******** User info displayed ********
+23:29:03.554 [main] INFO  API.test.UserTests - ******** updating user ********
+23:29:04.943 [main] INFO  API.test.UserTests - ******** deleting user ********
